@@ -3,7 +3,8 @@ This is a web based application developed for Heathcare in india
 
 ### [](https://github.com/gvamsi-10/Project_FRT#this-web-based-health-application-has-been-developed-for-the-accomplishment-of-future-ready-talent-internship-program-launched-by-microsoft-future-skills-prime-quess-github-and-ey)This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-PROJECT DEMO LINK :  [https://witty-sky-081c36d00.3.azurestaticapps.net](https://witty-sky-081c36d00.3.azurestaticapps.net/)  PROJECT DEMO VIDEO LINK :  [https://youtu.be/FB2y8BDngV8](https://youtu.be/FB2y8BDngV8)
+PROJECT DEMO LINK :  [https://witty-sky-081c36d00.3.azurestaticapps.net](https://witty-sky-081c36d00.3.azurestaticapps.net/) 
+PROJECT DEMO VIDEO LINK :  [https://youtu.be/FB2y8BDngV8](https://youtu.be/FB2y8BDngV8)
 
 ## [](https://github.com/gvamsi-10/Project_FRT#azure-technologies-used-for-project)Azure technologies used for Project
 
@@ -33,3 +34,12 @@ PROJECT DEMO LINK :  [https://witty-sky-081c36d00.3.azurestaticapps.net](https:/
 
 ### Contact
 ![lastpage](https://github.com/gvamsi-10/UR_Doctor_FRTProject/assets/109903812/c1b51e17-2a32-479d-aea5-2bff043b1ba4)
+
+## [](https://github.com/gvamsi-10/Project_FRT#TechStack)Tech Stack  💻
+
+-   [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+-   HTML
+-   CSS
+-   Bootstrap
+-   JavaScript
+-   Responsive Web Design
