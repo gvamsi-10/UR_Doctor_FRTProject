@@ -16,3 +16,7 @@ PROJECT DEMO LINK :  [https://witty-sky-081c36d00.3.azurestaticapps.net](https:/
 -   Incorporates innovative graphical and visual effects to enhance the design.
 -   Has included sections like Home, About us , our services , out team, contact with bot service option to chat
 -  the website Includes information about high quality  services  provided  to every patient
+-  - User can know about health information through this website by contacting to doctors.
+## [](https://github.com/gvamsi-10/Project_FRT#screenshots) Screenshots
+
+### Home
