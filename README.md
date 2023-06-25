@@ -21,3 +21,5 @@ PROJECT DEMO LINK :  [https://witty-sky-081c36d00.3.azurestaticapps.net](https:/
 
 ### Home
 ![first_page](https://github.com/gvamsi-10/UR_Doctor_FRTProject/assets/109903812/41325c84-ec29-4897-a7b6-d76282871b03)
+
+### About Us
