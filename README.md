@@ -3,7 +3,7 @@ This is a web based application developed for Heathcare  related website.
 
 ### [](https://github.com/gvamsi-10/Project_FRT#this-web-based-health-application-has-been-developed-for-the-accomplishment-of-future-ready-talent-internship-program-launched-by-microsoft-future-skills-prime-quess-github-and-ey)This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-PROJECT DEMO LINK :  [https://witty-sky-081c36d00.3.azurestaticapps.net](https://witty-sky-081c36d00.3.azurestaticapps.net/) 
+PROJECT  LINK : https://brave-sea-0a14cfd00.3.azurestaticapps.net
 
 PROJECT DEMO VIDEO LINK :  [https://youtu.be/FB2y8BDngV8](https://youtu.be/FB2y8BDngV8)
 
