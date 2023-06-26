@@ -5,7 +5,7 @@ This is a web based application developed for Heathcare  related website.
 
 PROJECT  LINK : https://brave-sea-0a14cfd00.3.azurestaticapps.net
 
-PROJECT DEMO VIDEO LINK :  [https://youtu.be/FB2y8BDngV8](https://youtu.be/FB2y8BDngV8)
+PROJECT DEMO VIDEO LINK :  
 
 ## [](https://github.com/gvamsi-10/Project_FRT#azure-technologies-used-for-project)Azure technologies used for Project
 
